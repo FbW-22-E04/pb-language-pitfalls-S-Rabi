@@ -9,6 +9,7 @@
 
 //
 console.log(isNaN("hello"));
+console.log(typeof NaN);
 console.log(isNaN(3));
 console.log((0.1 * 0.2).toFixed(2));
 console.log(Infinity / 0);
